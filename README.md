@@ -29,6 +29,4 @@ A powerful Discord bot built with Python, `discord.py`, and OpenAI's ChatGPT API
 | **python-dotenv** (1.0.0) | Load environment variables from `.env` file[reference:6] |
 | **asgiref** (3.6.0) | ASGI compatibility layer[reference:7] |
 
----
 
-## 📁 Project Structure
